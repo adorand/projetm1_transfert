@@ -1,0 +1,9 @@
+{
+  "groups": [{
+    "name": "application",
+    "sourceType": "sn.isi.projetm1_transfert.config.ApplicationProperties",
+    "type": "sn.isi.projetm1_transfert.config.ApplicationProperties"
+  }],
+  "hints": [],
+  "properties": []
+}
